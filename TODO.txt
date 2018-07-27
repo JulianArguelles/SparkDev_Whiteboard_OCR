@@ -1,0 +1,17 @@
+Preprocessing test data:
+CHECK	Padding images 
+CHECK	Figure out how to process XML
+CHECK	Identify all unique characters
+	Creating vector pair of image and text
+
+Preprocessing real data:
+	Seperate out different words
+
+
+Neural Network:
+	CNN for recognition
+	RNN 
+	MSER 
+
+Do readme
+Give credit to iamhandwriting in said readme for their dataset
