@@ -11,7 +11,11 @@ Preprocessing real data:
 Neural Network:
 	CNN for recognition
 	RNN 
-	MSER 
+CHECK	MSER separating letters
 
 Do readme
-Give credit to iamhandwriting in said readme for their dataset
+
+
+Note: Changed padding to white
+
+NEW: Find new dataset
